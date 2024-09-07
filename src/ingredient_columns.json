@@ -1,0 +1,5 @@
+{
+  "major_ingredient_columns": ["Farine", "Sucre", "Beurre", "Cassonade", "Oeuf", "Chocolat"],
+  "minor_ingredient_columns": ["Vanille", "Levure", "Sel", "Lait"],
+  "cooking_parameter_columns": ["Temperature", "Duree_cuisson", "Ordre"]
+}
