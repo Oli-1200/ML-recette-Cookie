@@ -3,6 +3,7 @@
 ## Description du Projet
 
 Ce projet vise à créer la meilleure recette de cookies en utilisant des techniques d'apprentissage automatique, en particulier TensorFlow. Inspiré par le billet de blog de Sara Robinson sur la classification des recettes de pain, de gâteau et de cookies à l'aide de l'IA, ce projet va plus loin en tentant de générer une recette de cookies optimale.
+Pour en savoir plus sur la genèse du projet : https://olivierleclere.ch/blog/2024/09/jeune-genevois-2-0-quand-l-ia-patisse/ 
 
 ## Structure du Projet
 
